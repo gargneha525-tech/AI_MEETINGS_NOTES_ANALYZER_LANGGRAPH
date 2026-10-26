@@ -1,0 +1,7 @@
+pandas
+pydantic
+python-dotenv
+streamlit
+langchain-ollama
+langchain-core
+langgraph
